@@ -1,0 +1,1 @@
+Recreation of Google landing page. Project from "The Odin Project"
