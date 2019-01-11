@@ -36,10 +36,10 @@ ul {
 }
 
 .logo-img {
-        height: auto; 
-        width: auto; 
-        max-width: 280px; 
-        max-height: 280px;
+    height: auto; 
+    width: auto; 
+    max-width: 280px; 
+    max-height: 280px;
 }
 
 .search-bar {
@@ -85,3 +85,5 @@ ul {
     border-width: 1px;
     border-radius: 50%;
 }
+
+
